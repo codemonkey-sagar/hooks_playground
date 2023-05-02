@@ -1,0 +1,25 @@
+{
+  "name": "react-hooks-playground",
+  "version": "1.0.0",
+  "description": "React Hooks Playground: A project showcasing examples of all the hooks available in React 18.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.11.0",
+    "three": "^0.152.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.1",
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^4.3.3"
+  }
+}
